@@ -4,7 +4,7 @@
 
 <img src="https://a.imagem.app/A5lMIY.png" alt="exemplo imagem">
 
-> Projeto em desenvolvimento.
+> Projeto em desenvolvimento. SUPABASE OFFLINE!!!
 
 ### Ajustes e melhorias
 
